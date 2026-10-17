@@ -1,0 +1,101 @@
+﻿id,decisao,trecho_corrigido,motivo
+fpc_4433627d,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_4df44e31,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_5bb7a9c3,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_9482ff01,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_13318888,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_ac2ba92e,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_3e927aa4,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_aaf3d2fa,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_037723bd,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_9c1edf21,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_a7d5ba09,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_a5ad1f44,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_6468846d,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_2cea50c6,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_45d4a7aa,descartar,,fala ou texto verdadeiro; não é o boato
+fpc_d58887e3,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_122872df,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_4f5cc0f8,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_b3cb8760,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_c5159c36,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_70ea0bd7,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_e61af91d,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_89616914,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_c33d3006,descartar,,fala ou texto verdadeiro; não é o boato
+fpc_4cec0de1,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_6af3f8a8,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_52176a89,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_b93e59ca,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_a937a88b,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_f675fb70,descartar,,trecho do desmentido; não é o boato
+fpc_c22c9d1c,descartar,,fala de especialista ou fonte; não é o boato
+fpc_dbf5b9d8,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_b77c6e77,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_fa13658f,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_1d6f846c,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_a4093f0a,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_6da255b4,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_a7410961,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_9032dadd,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_7731ed1f,descartar,,fragmento sem sentido sozinho
+fpc_86910911,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_3b5ec21d,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_dc9801ca,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_8221bb13,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_370293f0,corrigir,"Lula visita ‘QG do Comando Vermelho’ no Alemão, RJ, e usa boné que significa ‘cupinxa (parceiro) do crime’",trecho misturado com explicação da agência; mantido só o texto da postagem
+fpc_ceb0c223,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_43f89d87,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_f6e00190,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_7af89f0d,descartar,,conteúdo original reaproveitado pelo boato; não é o boato
+fpc_ef432bb3,descartar,,fala ou texto verdadeiro; não é o boato
+fpc_cb31cc97,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_f819c589,descartar,,fala ou texto verdadeiro; não é o boato
+fpc_916d6654,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_a59ddd4e,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_da06b0ac,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_9b8d0460,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_38044b13,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_30626e45,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_85bef3cc,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_a0deae46,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_798cf182,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_c9c1b940,descartar,,conteúdo original reaproveitado pelo boato; não é o boato
+fpc_bfc001e1,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_660746a3,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_c68d732c,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_924e6a39,descartar,,fala de especialista ou fonte; não é o boato
+fpc_18e0d3a1,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_abdb71c4,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_76542944,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_fe46128c,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_b92434fe,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_385b28ba,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_43a54dc3,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_e154ee10,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_629c51e2,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_fb80d7bb,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_3ffdcae0,descartar,,fala de especialista ou fonte; não é o boato
+fpc_fabdc4e7,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_1c53e319,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_e83d6828,descartar,,fala ou texto verdadeiro; não é o boato
+fpc_ecf793de,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_3b729ffa,descartar,,"texto de lei, plano ou norma; não é o boato"
+fpc_8a97c246,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_b1b57a8f,descartar,,trecho do desmentido; não é o boato
+fpc_46da22c4,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_5077148a,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_054ba014,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_f3cbdf21,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_1f0d0f43,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_e65d1f38,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_4351dcab,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_e6be3672,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_78959631,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_6a7f4014,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_6d0593b5,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_df78bcd5,descartar,,conteúdo original reaproveitado pelo boato; não é o boato
+fpc_427e20cf,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_f0a1da57,descartar,,resposta ou nota de órgão/fonte; não é o boato
+fpc_899ea9f1,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"
+fpc_22c02d88,ok,,"conteúdo que circulou (mensagem, legenda, áudio ou publicação)"

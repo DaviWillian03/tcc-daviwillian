@@ -33,4 +33,4 @@ As bases de dados não ficam no repositório. Elas são guardadas no Google Driv
 
 ## Revisão dos boatos (FactPolCheckBr)
 
-Os boatos foram extraídos automaticamente das matérias das agências e revisados com apoio de um modelo de linguagem (Claude), seguindo o protocolo descrito no notebook `02`. O autor conferiu uma amostra aleatória e a concordância foi medida com o kappa de Cohen. As decisões (ids e motivos, sem os textos) estão em `revisao/`. Os ids são calculados a partir do link da checagem, então são estáveis.
+Os boatos foram extraídos automaticamente das matérias das agências e revisados com apoio de um modelo de linguagem (Claude), seguindo o protocolo descrito no notebook `02`. Não houve validação humana independente (sem kappa de Cohen); a planilha de conferência do lote 1 (`conferencia_lote_01_para_Davi.xlsx`) fica como opção para uma checagem futura. Resultado: 652 candidatos, 536 `ok`, 3 `corrigir`, 113 `descartar` (539 usados). As decisões (ids e motivos, sem os textos) estão em `revisao/`. Os ids são calculados a partir do link da checagem, então são estáveis.

@@ -20,7 +20,7 @@ com conteúdo das eleições presidenciais de 2022.
 | `notebooks/01_bases.ipynb` | Baixa, unifica e diagnostica as três bases |
 | `notebooks/02_limpeza_e_extracao.ipynb` | Limpa as bases e extrai os boatos do FactPolCheckBr |
 | `notebooks/02b_revisao.ipynb` | Mede a concordância da revisão e monta o conjunto eleitoral final |
-| `notebooks/03_preprocessamento.ipynb` | Normaliza e padroniza os textos (a fazer) |
+| `notebooks/03_preprocessamento.ipynb` | Normaliza, tokeniza, remove stopwords (mantém negações), gera versões com e sem stemming e divide o Fake.Br por par |
 | `notebooks/04_treino_avaliacao.ipynb` | Vetoriza, treina e avalia os modelos (a fazer) |
 
 As bases de dados não ficam no repositório. Elas são guardadas no Google Drive, na pasta `TCC/dados`.

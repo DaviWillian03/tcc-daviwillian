@@ -1,0 +1,11 @@
+# Bibliotecas usadas no TCC. O Colab já traz todas instaladas.
+# As versões exatas usadas nos experimentos ficam registradas em resultados/ambiente.txt
+pandas
+numpy
+nltk
+scikit-learn
+xgboost
+scipy
+statsmodels
+matplotlib
+seaborn

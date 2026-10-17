@@ -1,0 +1,9 @@
+# Bases de dados ficam no Google Drive, não no Git
+dados/
+*.zip
+*.csv
+*.parquet
+# Arquivos temporários
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

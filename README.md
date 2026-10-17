@@ -17,7 +17,7 @@ com conteúdo das eleições presidenciais de 2022.
 | Notebook | Etapa |
 |---|---|
 | `notebooks/00_ambiente.ipynb` | Prepara o ambiente, fixa a semente e registra as versões |
-| `notebooks/01_bases.ipynb` | Reúne e organiza as bases (a fazer) |
+| `notebooks/01_bases.ipynb` | Baixa, unifica e diagnostica as três bases |
 | `notebooks/02_preprocessamento.ipynb` | Limpa e padroniza os textos (a fazer) |
 | `notebooks/03_treino_avaliacao.ipynb` | Vetoriza, treina e avalia os modelos (a fazer) |
 

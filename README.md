@@ -23,6 +23,7 @@ com conteúdo das eleições presidenciais de 2022.
 | `notebooks/03_preprocessamento.ipynb` | Normaliza, tokeniza, remove stopwords (mantém negações), gera versões com e sem stemming e divide o Fake.Br por par |
 | `notebooks/04_modelagem.ipynb` | Treina Naive Bayes, SVM e XGBoost (validação cruzada por par), McNemar, teste externo eleitoral e experimento de viés |
 | `notebooks/05_robustez.ipynb` | Testa atalhos (palavras pesadas, marcas de veículo) e o efeito do tamanho do texto |
+| `notebooks/06_controle.ipynb` | Grupos de controle com textos verdadeiros do tema eleitoral para medir falsos positivos |
 
 As bases de dados não ficam no repositório. Elas são guardadas no Google Drive, na pasta `TCC/dados`.
 

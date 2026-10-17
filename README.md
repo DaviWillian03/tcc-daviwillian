@@ -19,6 +19,7 @@ com conteúdo das eleições presidenciais de 2022.
 | `notebooks/00_ambiente.ipynb` | Prepara o ambiente, fixa a semente e registra as versões |
 | `notebooks/01_bases.ipynb` | Baixa, unifica e diagnostica as três bases |
 | `notebooks/02_limpeza_e_extracao.ipynb` | Limpa as bases e extrai os boatos do FactPolCheckBr |
+| `notebooks/02b_revisao.ipynb` | Mede a concordância da revisão e monta o conjunto eleitoral final |
 | `notebooks/03_preprocessamento.ipynb` | Normaliza e padroniza os textos (a fazer) |
 | `notebooks/04_treino_avaliacao.ipynb` | Vetoriza, treina e avalia os modelos (a fazer) |
 
@@ -29,3 +30,7 @@ As bases de dados não ficam no repositório. Elas são guardadas no Google Driv
 1. Abra o notebook no Google Colab (Arquivo > Abrir notebook > GitHub).
 2. Execute os notebooks na ordem numérica.
 3. Todos os sorteios usam a semente 42.
+
+## Revisão dos boatos (FactPolCheckBr)
+
+Os boatos foram extraídos automaticamente das matérias das agências e revisados com apoio de um modelo de linguagem (Claude), seguindo o protocolo descrito no notebook `02`. O autor conferiu uma amostra aleatória e a concordância foi medida com o kappa de Cohen. As decisões (ids e motivos, sem os textos) estão em `revisao/`. Os ids são calculados a partir do link da checagem, então são estáveis.

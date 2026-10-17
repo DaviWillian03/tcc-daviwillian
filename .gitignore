@@ -7,3 +7,6 @@ dados/
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+
+# Decisões da revisão (só ids e decisões, sem textos) ficam versionadas para auditoria
+!revisao/*.csv
